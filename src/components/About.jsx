@@ -13,9 +13,9 @@ function About() {
 
           <div className="achievements">
             <p>
-              Taught English online by building multiple websites and platforms, including the LearnEnglish Facebook
-              page — the largest English teaching page at the time, helping nearly 100K people at age 16
+              Taught English online by building multiple websites and platforms, including the LearnEnglish Facebook page — the largest English teaching page in the Arab world at the time — helping nearly 100,000 people learn English when I was 16 years old.
             </p>
+
 
             <p>Built several websites focused on teaching English in creative ways</p>
 
