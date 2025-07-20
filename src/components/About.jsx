@@ -30,11 +30,6 @@ function About() {
             <p>Created a university rating website that started in Tunisia and went viral across several countries</p>
 
             <p>
-              Wrote and published an article outlining future tech trends, including predicting ChatGPT five days before
-              its release
-            </p>
-
-            <p>
               Built Facebook and Messenger clones as a graduation project, featuring interactive historic figures users
               could chat with
             </p>

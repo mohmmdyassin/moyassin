@@ -31,7 +31,7 @@ function Home() {
         </div>
 
         <div className="blog-link">
-          <Link href="/about">→ about</Link>
+          <Link to="/about">→ about</Link>
         </div>
       </div>
 
